@@ -1,5 +1,6 @@
+import { Box } from 'theme-ui';
+import { Grid } from 'theme-ui';
 import prism from "@theme-ui/prism/presets/oceanic-next";
-import { Box } from "@theme-ui/prism/presets/oceanic-next";
 
 const grey90 = `#232129`;
 const black80 = `#1B1F23`;
