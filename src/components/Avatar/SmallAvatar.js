@@ -1,7 +1,7 @@
 import React from "react";
 import siteConfig from "../../../data/SiteConfig";
 import AvatarLinks from "./AvatarLinks";
-import logo from "../../../data/logo.png";
+import logo from "logo.png";
 
 /** @jsx jsx */
 import { jsx, Styled } from "theme-ui";
