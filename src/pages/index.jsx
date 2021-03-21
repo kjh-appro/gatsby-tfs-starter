@@ -7,8 +7,6 @@ import SEO from "../components/SEO/SEO";
 import BigAvatar from "../components/Avatar/BigAvatar";
 import config from "../../data/SiteConfig";
 import AllCategories from "../components/AllCategories";
-import { Box } from "theme-ui";
-import { Grid } from "theme-ui";
 
 /** @jsx jsx */
 import { Styled, jsx } from "theme-ui";

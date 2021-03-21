@@ -6,8 +6,6 @@ import PostListing from "../components/PostListing";
 import SEO from "../components/SEO/SEO";
 import config from "../../data/SiteConfig";
 import AvatarLinks from "../components/Avatar/AvatarLinks";
-import { Box } from "theme-ui";
-import { Grid } from "theme-ui";
 
 class Blog extends React.Component {
   render() {

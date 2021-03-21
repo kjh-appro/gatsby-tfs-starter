@@ -5,8 +5,6 @@ import Layout from "../layout";
 import PostListing from "../components/PostListing";
 import TagHeader from "../components/TagHeader";
 import config from "../../data/SiteConfig";
-import { Box } from "theme-ui";
-import { Grid } from "theme-ui";
 
 export default class TagTemplate extends React.Component {
   render() {

@@ -5,8 +5,7 @@ import { Link } from 'gatsby'
 
 /** @jsx jsx */
 import { Styled, jsx } from "theme-ui";
-import { Box } from "theme-ui";
-import { Grid } from "theme-ui";
+
 
 
 const AllCategories = () => {

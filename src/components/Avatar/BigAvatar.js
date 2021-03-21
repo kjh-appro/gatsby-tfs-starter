@@ -12,7 +12,7 @@ const BigAvatar = props => {
   return (
     <>
       <div sx={{ textAlign: `center` }}>
-        <img src={avatar.photo} sx={{ width: 100, borderRadius: 999 }} />
+        <img src= "../images/logo.svg"/>
         <Styled.h1 sx={{ color: `text` }}>
           Ola, I'm{" "}
           <Styled

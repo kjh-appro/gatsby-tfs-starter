@@ -1,5 +1,3 @@
-import { Box } from "theme-ui";
-import { Grid } from "theme-ui";
 import prism from "@theme-ui/prism/presets/oceanic-next";
 
 const grey90 = `#232129`;
@@ -8,7 +6,7 @@ const white = `#fff`;
 const lightWhite = `rgba(255, 255, 255, 0.86)`;
 const opaqueLightYellow = `rgba(255, 229, 100, 0.2)`;
 const opaqueLightWhite = `hsla(0, 0%, 100%, 0.2)`;
-const darkPink = `rgb(255, 48, 0)`;
+const darkPink =`rgb(255, 48, 0)`;
 const pink = `pink`;
 const blueGray = `#282c35`;
 const lightblue = `#a5a4a6`;

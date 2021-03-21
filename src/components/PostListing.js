@@ -3,8 +3,7 @@ import { Styled, jsx } from 'theme-ui';
 import React, { Fragment } from "react";
 import { Link } from "gatsby";
 import PostHeader from './PostHeader';
-import { Box } from "theme-ui";
-import { Grid } from "theme-ui";
+
 
 class PostListing extends React.Component {
   getPostList() {

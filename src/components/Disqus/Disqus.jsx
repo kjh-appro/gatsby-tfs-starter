@@ -2,8 +2,6 @@ import React, { Component } from "react";
 import ReactDisqusComments from "react-disqus-comments";
 import urljoin from "url-join";
 import config from "../../../data/SiteConfig";
-import { Box } from "theme-ui";
-import { Grid } from "theme-ui";
 
 class Disqus extends Component {
   constructor(props) {

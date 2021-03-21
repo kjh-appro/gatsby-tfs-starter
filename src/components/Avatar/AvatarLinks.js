@@ -5,8 +5,6 @@ import mail from "../../images/mail.svg";
 import siteConfig from "../../../data/SiteConfig";
 /** @jsx jsx */
 import { Styled, jsx } from "theme-ui";
-import { Box } from "theme-ui";
-import { Grid } from "theme-ui";
 
 const icons = [
   { label: "linkedin", icon: linkedin },

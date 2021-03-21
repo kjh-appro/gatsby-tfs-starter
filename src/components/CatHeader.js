@@ -1,8 +1,6 @@
 import React from "react";
 /** @jsx jsx */
 import { Styled, jsx } from "theme-ui";
-import { Box } from "theme-ui";
-import { Grid } from "theme-ui";
 
 const CatHeader = props => {
   const { category } = props;
