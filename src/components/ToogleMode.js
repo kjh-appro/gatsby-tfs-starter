@@ -1,10 +1,10 @@
 import React from "react";
-import { useColorMode, css } from "theme-ui";
+import { useColorMode, css, Box } from "theme-ui";
 import sun from "../images/sun.svg";
 import moon from "../images/moon.svg";
 
 /** @jsx jsx */
-import { jsx } from "theme-ui";
+import { jsx, Box } from "theme-ui";
 
 const ToogleMode = () => {
   const [colorMode, setColorMode] = useColorMode();
