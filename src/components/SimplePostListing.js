@@ -1,5 +1,5 @@
 /** @jsx jsx */
-import { Styled, jsx } from "theme-ui";
+import { Styled, jsx, Box } from "theme-ui";
 import React, { Fragment } from "react";
 import { Link } from "gatsby";
 import PostHeader from "./PostHeader";
