@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import _ from "lodash";
 import { Link } from "gatsby";
 /** @jsx jsx */
-import { Styled , jsx } from 'theme-ui';
+import { Styled , jsx, Box } from 'theme-ui';
 
 class PostTags extends Component {
   render() {
