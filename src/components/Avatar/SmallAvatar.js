@@ -25,7 +25,7 @@ const SmallAvatar = props => {
       </Styled.h2>
 
       <div sx={{ display: `flex`, alignItems: `center`, mb: 2, mt: 2 }}>
-      <img src= "../images/logo.svg"/>
+      <img src= "../images/logo.png"/>
         <Styled.p>{avatar.description}</Styled.p>
       </div>
       <div sx={{ textAlign: `left` }}>
