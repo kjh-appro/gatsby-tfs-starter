@@ -1,6 +1,7 @@
 import React from "react";
 import siteConfig from "../../../data/SiteConfig";
 import AvatarLinks from "./AvatarLinks";
+import logo from "../images/logo.png";
 
 /** @jsx jsx */
 import { jsx, Styled } from "theme-ui";
@@ -25,7 +26,7 @@ const SmallAvatar = props => {
       </Styled.h2>
 
       <div sx={{ display: `flex`, alignItems: `center`, mb: 2, mt: 2 }}>
-      <img src= "../images/logo.png"/>
+      <img src= { logo }/>
         <Styled.p>{avatar.description}</Styled.p>
       </div>
       <div sx={{ textAlign: `left` }}>
