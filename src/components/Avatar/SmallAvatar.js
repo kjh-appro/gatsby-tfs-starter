@@ -1,10 +1,10 @@
 import React from "react";
 import siteConfig from "../../../data/SiteConfig";
 import AvatarLinks from "./AvatarLinks";
-import logo from "logo.png";
+import logo from "../../../data/logo.png";
 
 /** @jsx jsx */
-import { jsx, Styled } from "theme-ui";
+import { jsx, Styled, Box } from "theme-ui";
 
 const SmallAvatar = props => {
   const { avatar } = siteConfig;
