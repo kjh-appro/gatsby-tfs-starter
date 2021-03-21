@@ -4,6 +4,8 @@ import Layout from "../layout";
 import About from "../components/About";
 import config from "../../data/SiteConfig";
 import AvatarLinks from "../components/Avatar/AvatarLinks";
+import { Box } from "theme-ui";
+import { Grid } from "theme-ui";
 
 class AboutPage extends Component {
   render() {

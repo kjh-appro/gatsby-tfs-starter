@@ -2,6 +2,8 @@ import React from "react";
 import Helmet from "react-helmet";
 import config from "../../data/SiteConfig";
 import NavMenu from "../components/NavMenu";
+import { Box } from "theme-ui";
+import { Grid } from "theme-ui";
 
 /** @jsx jsx */
 import { Styled, jsx } from "theme-ui";

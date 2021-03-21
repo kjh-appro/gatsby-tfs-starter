@@ -2,6 +2,8 @@ import React from "react";
 import ToogleMode from './ToogleMode'
 import { Link } from 'gatsby'
 import siteConfig from "../../data/SiteConfig";
+import { Box } from "theme-ui";
+import { Grid } from "theme-ui";
 
 /** @jsx jsx */
 import { Styled , jsx} from 'theme-ui'

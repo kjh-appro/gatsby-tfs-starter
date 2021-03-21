@@ -2,6 +2,8 @@ import React, { Component } from "react";
 import Helmet from "react-helmet";
 import urljoin from "url-join";
 import config from "../../../data/SiteConfig";
+import { Box } from "theme-ui";
+import { Grid } from "theme-ui";
 
 class SEO extends Component {
   render() {

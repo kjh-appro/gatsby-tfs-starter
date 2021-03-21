@@ -5,6 +5,8 @@ import Layout from "../layout";
 import PostListing from "../components/PostListing";
 import CatHeader from "../components/CatHeader";
 import config from "../../data/SiteConfig";
+import { Box } from "theme-ui";
+import { Grid } from "theme-ui";
 
 export default class CategoryTemplate extends React.Component {
   render() {
