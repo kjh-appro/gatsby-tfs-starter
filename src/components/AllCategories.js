@@ -4,7 +4,7 @@ import _ from "lodash";
 import { Link } from 'gatsby'
 
 /** @jsx jsx */
-import { Styled, jsx } from "theme-ui";
+import { Box, Styled, jsx } from "theme-ui";
 
 
 
