@@ -9,7 +9,7 @@ import config from "../../data/SiteConfig";
 import AllCategories from "../components/AllCategories";
 
 /** @jsx jsx */
-import { Styled, jsx } from "theme-ui";
+import { Styled, jsx, Box } from "theme-ui";
 
 class Index extends React.Component {
   render() {
