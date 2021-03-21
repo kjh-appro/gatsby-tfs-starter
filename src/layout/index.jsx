@@ -4,7 +4,7 @@ import config from "../../data/SiteConfig";
 import NavMenu from "../components/NavMenu";
 
 /** @jsx jsx */
-import { Styled, jsx } from "theme-ui";
+import { Styled, jsx, Box } from "theme-ui";
 
 export default class MainLayout extends React.Component {
   render() {
