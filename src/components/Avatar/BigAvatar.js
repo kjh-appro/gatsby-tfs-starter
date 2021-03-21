@@ -2,7 +2,7 @@ import React from "react";
 import AvatarLinks from "./AvatarLinks";
 import { Link } from "gatsby";
 import siteConfig from "../../../data/SiteConfig";
-import logo from "../../../data/logo.png";
+import logo from "logo.png";
 
 /** @jsx jsx */
 import { Styled, jsx } from "theme-ui";
