@@ -4,7 +4,7 @@ import linkedin from "../../images/linkedin.svg";
 import mail from "../../images/mail.svg";
 import siteConfig from "../../../data/SiteConfig";
 /** @jsx jsx */
-import { Styled, jsx } from "theme-ui";
+import { Styled, jsx, Box } from "theme-ui";
 
 const icons = [
   { label: "linkedin", icon: linkedin },
