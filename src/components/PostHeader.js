@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 import PostTages from './PostTags';
 
 /** @jsx jsx */
-import { Styled, jsx } from 'theme-ui'
+import { Styled, jsx, Box } from 'theme-ui'
 
 
 
