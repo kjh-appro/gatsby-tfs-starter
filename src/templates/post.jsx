@@ -2,7 +2,7 @@ import React from "react";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 /** @jsx jsx */
-import { Styled, jsx } from "theme-ui";
+import { Styled, jsx, Box } from "theme-ui";
 import { MDXRenderer } from "gatsby-plugin-mdx";
 import Layout from "../layout";
 import PostHeader from "../components/PostHeader";
